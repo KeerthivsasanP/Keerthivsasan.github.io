@@ -10,7 +10,8 @@ I am a python developer with 3 years of experience and would love to collaborate
     -> Develop
     -> Have Fun !!!!!!!!! 😉
 
-- 🧑‍🎓 **Education**:
+- 🧑‍🎓 **Education**
+
     | Qualification | Instituition | Year of completion |
     |---------------|--------------|--------------------|
     |SSC  | Vidyapeetam Senior Secondary School | 2017 |
