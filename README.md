@@ -1,2 +1,6 @@
-# Keerthivsasan.github.io
-This is an online portforlio
+# Keerthivasan's Portfolio
+
+- Education:
+    * SSC - Vidyapeetam Senior Secondary school
+    * HSC - Vidyapeetam Senior Secondary School
+    * BCA - VIT Vellore
